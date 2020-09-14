@@ -1,0 +1,30 @@
+html{
+
+    font size : 10px;
+    font-family: 'Open Sans',sans-serif;
+}
+h1,h2,h3{
+    font size : 60px;
+    text-align: center;
+    margin: 0;
+    padding : 20px 0;
+    color : purple;
+    text-shadow:5px 3px 1px green;
+}
+p,li{
+    font size :16px;
+    line height : 9;
+    letter-spacing:1px;
+    text-shadow;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 0,20px,20px,20px;
+    border: 5px solid yellow;
+}
+img {
+    display : block;
+    margin:0 auto;
+}
